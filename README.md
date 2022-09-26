@@ -1,3 +1,3 @@
 # ToDoList
 
-heetodolist.netlify.app
+https://heetodolist.netlify.app
